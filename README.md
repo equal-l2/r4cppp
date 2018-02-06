@@ -3,8 +3,8 @@
 -->
 # システムプログラマのためのRust
 (訳注:[nrc/r4cpp](https://github.com/r4cppp)の日本語訳です。md33f226を元にして
-翻訳しています。専門用語の訳は[TRPR-ja](https://github.com/rust-lang-ja/
-the-rust-programming-language-ja/blob/master/TranslationTable.md)に従います)
+翻訳しています。専門用語の訳は[TRPR-ja](https://github.com/rust-lang-ja/the-rust-programming-language-ja/blob/master/TranslationTable.md)
+に従います)
 
 <!--
 A Rust tutorial for experienced C and C++ programmers.
@@ -121,6 +121,7 @@ catered for.
 <!--
 ## Other resources
 -->
+## 他の資料
 
 * [The Rust book/guide](http://doc.rust-lang.org/book/) - the best place for
   learning Rust in general and probably the best place to go for a second opinion
@@ -169,8 +170,8 @@ If you're not sure of something, please get in touch by pinging me here
 (@nrc) or on irc (nrc, on #rust or #rust-internals).
 -->
 新たな文、節、あるいは章の寄稿も受け付けています！新たな題材を得るには
-[Issue一覧](https://github.com/nrc/r4cppp/issues)の[new material]
-(https://github.com/nrc/r4cppp/labels/new%20material)タグの付いたIssueを見て
+[Issue一覧](https://github.com/nrc/r4cppp/issues)の[new material](
+https://github.com/nrc/r4cppp/labels/new%20material)タグの付いたIssueを見て
 ください。不明な点があれば、GitHub（@nrc）またはIRC（#rust または
  #rust-internals で nrc）へ連絡してください。
 
